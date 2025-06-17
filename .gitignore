@@ -1,0 +1,17 @@
+# Ignore system and IDE files
+.idea/
+__pycache__/
+.DS_Store
+
+# Ignore data and logs
+*.csv
+*.db
+analyzed_reviews/
+*.ipynb
+
+# Ignore compiled files
+*.pyc
+*.txt
+IMDB Dataset.csv
+cleaned_tfidf_reviews.csv
+
